@@ -51,7 +51,7 @@ function Projects() {
                                             <li class="tech">API</li>
                                         </ul>
                                         <div class="project__links">
-                                        <a class="bg-transparent hover:bg-cyan-600 outline outline-1 outline-cyan-500 text-white py-5 px-8 border-spacing-8 rounded-2xl" href="/resume.pdf" target="_blank" rel="noreferrer noopener">Live</a>
+                                        <a class="bg-transparent hover:bg-cyan-600 outline outline-1 outline-cyan-500 text-white py-5 px-8 border-spacing-8 rounded-2xl" href="https://movies-app-react-liart.vercel.app/" target="_blank" rel="noreferrer noopener">Live</a>
                                         <a class="bg-transparent hover:bg-cyan-600 outline outline-1 outline-cyan-500 text-white py-5 px-8 border-spacing-8 rounded-2xl" href="https://github.com/jihadoulad/movies-app-react" target="_blank" rel="noreferrer noopener">Source</a>
                                         </div>
                                     </section>
