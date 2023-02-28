@@ -100,7 +100,7 @@ function Projects() {
         </li>
         <li class="dloBMj">
           <article>
-            <img src="./images/MovieApp.png" alt="" />
+            <img src="./images/movies-app-react-liart.vercel.app_.png" alt="" />
             <section class="project__details">
               <header>
                 <h3>
